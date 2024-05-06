@@ -1,0 +1,12 @@
+lib/junit-platform-console-standalone-1.10.2.jar
+/.idea/*
+/cs361-p1.iml
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
